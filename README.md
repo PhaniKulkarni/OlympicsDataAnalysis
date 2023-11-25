@@ -18,3 +18,5 @@
       Tables populated with data from transformed files in Azure Data Lake Storage Gen2.
    - SQL-Based Data Analysis:
       Leveraged Azure Synapse Analytics for Analysis. SQL queries used to gain insights into Olympic data trends, patterns, and key metrics.
+     
+References: [https://www.youtube.com/watch?v=IaA9YNlg5hM&t=2696s](url)
